@@ -1,5 +1,5 @@
 """
-Simplified demo code implemented based on Tensorflow 1 for NeurIPS'22 submission:
+Simplified demo code implemented based on Tensorflow 1 for NeurIPS'22 paper:
 "Pre-trained model reusability evaluation for small-data transfer learning".
 The code is NOT runnable: it is only used for illustrating the task and model transform modules.
 
