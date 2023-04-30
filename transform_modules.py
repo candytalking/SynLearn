@@ -2,7 +2,6 @@
 Simplified demo code implemented based on Tensorflow 1 for NeurIPS'22 submission:
 "Pre-trained model reusability evaluation for small-data transfer learning".
 The code is NOT runnable: it is only used for illustrating the task and model transform modules.
-The full code will be released when the paper gets published.
 
 """
 
